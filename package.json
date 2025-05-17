@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/aax.git"
+  },
+  "keywords": [
+    "aax"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/aax/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/aax#readme"
 }
